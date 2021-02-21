@@ -1,0 +1,1 @@
+This is a basic alarm clock program meant to replicate most of the features that typical alarm clocks have.
